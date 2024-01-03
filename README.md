@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**BrendenKingTLG/BrendenKingTLG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome!
 
-Here are some ideas to get you started:
+About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Professional background: Software Craftsman
+🎓 Education: Masters in CS from Virginia Tech, Bachelors in IT from WGU
+
+Technical Skills:
+
+Languages: Python, JavaScript, Java
+Tools & Technologies: React, Docker, AWS, K8s, Openshift
+Areas of Expertise: Full Stack Web Development, DevOps
+
+Connect with Me:
+
+LinkedIn: [[LinkedIn profile link]](https://www.linkedin.com/in/brenden-king-swe/)
+Personal Websitehttps://www.linkedin.com/in/brenden-king-swe/: [Personal website or blog link, if any]
+Email: brendenking17@outlook.com
